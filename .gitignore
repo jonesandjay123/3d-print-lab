@@ -1,0 +1,49 @@
+# Local-only files: unreviewed originals AND derivatives must stay here.
+**/unreviewed/
+**/private/
+**/downloads/
+
+# Source folders hold public notes by default, not downloaded models.
+projects/*/source/*
+!projects/*/source/*.md
+!projects/*/source/*.txt
+
+# Photos are private by default. Move only reviewed photos into public/.
+projects/*/photos/*
+!projects/*/photos/README.md
+!projects/*/photos/public/
+!projects/*/photos/public/**
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+credentials.json
+secrets.*
+.vscode/
+.idea/
+
+# OS, editor, CAD backups, and temporary output
+.DS_Store
+Thumbs.db
+Desktop.ini
+*~
+*.bak
+*.tmp
+*.swp
+*.swo
+*.FCStd1
+*.FCStd2
+*.blend1
+*.blend2
+*.log
+__pycache__/
+tmp/
+temp/
+
+# Verified CAD and exports are intentionally not globally ignored.
+# Review redistribution rights before adding them.
