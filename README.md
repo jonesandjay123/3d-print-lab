@@ -20,7 +20,7 @@ A personal 3D printing workshop for custom parts, remixing existing models, CAD 
 
 [Anker Nano A1665 V2 簡化保護殼](projects/anker-nano-a1665/README.md)
 
-目前只建立 Repo 與文件，尚未開始 CAD 修改、匯出或試印。
+Anker Nano A1665 專案已於 2026-10-08 獲授權完成 V2 模型修改、匯出與切片驗證；使用者已送出首次列印，完成與試裝結果待確認。第三方模型及衍生檔只留本機，公開文件見專案紀錄。
 
 ## 公開與授權
 
