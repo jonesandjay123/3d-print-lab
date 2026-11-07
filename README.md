@@ -16,11 +16,13 @@ A personal 3D printing workshop for custom parts, remixing existing models, CAD 
 
 `docs/` 放共用流程與公開前檢查清單。
 
-## 第一個專案
+## 專案
 
 [Anker Nano A1665 V2 簡化保護殼](projects/anker-nano-a1665/README.md)
 
 Anker Nano A1665 專案已於 2026-10-08 獲授權完成 V2 模型修改、匯出與切片驗證；使用者已送出首次列印，完成與試裝結果待確認。第三方模型及衍生檔只留本機，公開文件見專案紀錄。
+
+[可拆式聯動插頭保護套](projects/tethered-plug-protector/README.md)：2026-11-07 建立，PLA 分件活動連接，V01 首輪試印版；模型與衍生檔留本機，配合尺寸及耐用性待實測。
 
 ## 公開與授權
 
